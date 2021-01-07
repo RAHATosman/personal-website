@@ -114,7 +114,7 @@ div p {
     margin-top: 50px;
 }
 .social{
-    width: 20px;
+    width: 30px;
     margin: 5px;
 }
 .mail{
@@ -139,8 +139,10 @@ div p {
     margin: 10px 0px;
 }
 .btn button{
-    margin: 10px 0px;
+    margin: 20px 0px;
     padding: 5px 10px;
     color: rgb(46, 23, 23);
     font-weight: 600;
+    background-color: white;
+    border: 0px;
 }
